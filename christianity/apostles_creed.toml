@@ -1,0 +1,32 @@
+title = "Credo Apostólico"
+translated_from = "Latim"
+century = 1
+
+[[chapters]]
+[[chapters.paragraphs]]
+original = "Credo in Deum Patrem omnipoténtem, Creatórem cæli et terræ."
+translated = "Creio em Deus Pai, Todo-poderoso, Criador do Céu e da terra."
+
+[[chapters.paragraphs]]
+original = """
+Et in Iesum Christum, Fílium eius únicum, Dóminum nostrum, qui concéptus est de Spíritu Sancto, natus \ 
+ex María Vírgine, passus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus, descéndit ad ínferos, \
+tértia die resurréxit a mórtuis, ascéndit ad cælos, sedet ad déxteram Dei Patris omnipoténtis, inde \
+ventúrus est iudicáre vivos et mórtuos.
+"""
+translated = """
+Creio em Jesus Cristo, seu único Filho, nosso Senhor, o qual foi concebido por obra do Espírito Santo; \
+nasceu da virgem Maria; padeceu sob o poder de Pôncio Pilatos, foi crucificado, morto e sepultado; \
+ressurgiu dos mortos ao terceiro dia; subiu ao Céu; está sentado à direita de Deus Pai Todo-poderoso, \
+donde há de vir para julgar os vivos e os mortos.
+"""
+
+[[chapters.paragraphs]]
+original = """
+Credo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, Sanctórum communiónem,remissiónem peccatórum, \
+carnis resurrectiónem, vitam ætérnam. Amen.
+"""
+translated = """
+Creio no Espírito Santo; na Santa Igreja Católica; na comunhão dos santos; na remissão dos pecados; \
+na ressurreição do corpo; na vida eterna. Amém. 
+"""
